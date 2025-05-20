@@ -1,3 +1,9 @@
 langchain-groq
 langgraph
 python-dotenv
+langchain
+langchain_community
+langchain_huggingface
+langchain_text_splitters
+bs4
+faiss-cpu
